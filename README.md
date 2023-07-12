@@ -1,5 +1,5 @@
-# varzesh3-landing-page
-varzesh3.com landing page with HTML, CSS, Bootstrap, JS | Not responsive
+# varzesh3-home-page
+varzesh3.com home page with HTML, CSS, Bootstrap, JS | Not responsive
 
 # description 
 
